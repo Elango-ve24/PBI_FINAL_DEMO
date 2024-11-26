@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "OOS Chronicity Report"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "3c843eec-5b4d-4975-a8fa-c0c86314fd88"
+  }
+}
